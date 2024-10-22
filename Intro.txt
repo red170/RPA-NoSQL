@@ -1,0 +1,7 @@
+Optimizadas para aplicaciones que requieren de grandes volumenes de datos baja latencia y modelos de datos flexibles, utiliza JSON como formato de imntercambio de texto las cuales son facilmente escalables tienen un mejor rendimiento y cuenta con diferentes modelos
+
+Modelos de Bases de Datos no Relacionales
+1. Clave-Valor
+2. Documetales (Post)
+3. Grafos (Nodos)
+4. Familia de Columnas 
